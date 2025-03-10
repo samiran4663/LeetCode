@@ -18,8 +18,10 @@ class Solution {
         }
         int mid=(length/2)+1;
         temp=head;
-        for(int i=0;i<mid-1;i++){
+        int i=1;
+        while(i<mid){
             temp=temp.next;
+            i++;
         }
         return temp;
 
