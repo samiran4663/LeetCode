@@ -11,45 +11,27 @@
  */
 public class Solution {
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
-        ListNode dummy1=new ListNode();
-        ListNode dummy2=new ListNode();
-        int l1=0,l2=0;
-        dummy1=headA;dummy2=headB;int diff=0;
-        while(dummy1!=null)
+        if(headA==null || headB==null) return null;
+        ListNode dummy1=headA;
+        ListNode dummy2=headB;
+        while(dummy1!=dummy2)
         {
-            l1++;
-            dummy1=dummy1.next;
-        }
-        while(dummy2!=null)
-        {
-            l2++;
-            dummy2=dummy2.next;
-        }
-        dummy1=headA;
-        dummy2=headB;
-        if(l1>l2)
-        {
-            diff=l1-l2;
-            
-            for(int i=0;i<diff;i++)
+            if(dummy1==null)
             {
+                dummy1=headB;
+            }
+            else{
                 dummy1=dummy1.next;
             }
-        }
-        else
-        {
-            diff=l2-l1;
-            
-            for(int i=0;i<diff;i++)
+            if(dummy2==null)
             {
+                dummy2=headA;
+            }
+            else{
                 dummy2=dummy2.next;
             }
         }
-        while(dummy1!=null && dummy2!=null)
-        {
-            if(dummy1==dummy2) return dummy1;
-            dummy1=dummy1.next;dummy2=dummy2.next;
-        }
-        return null;
+        return dummy1;
+        
     }
 }
