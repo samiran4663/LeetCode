@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/samiran4663/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/samiran4663/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/samiran4663/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 ## Trie
@@ -42,4 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/samiran4663/LeetCode/tree/master/0053-maximum-subarray) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/samiran4663/LeetCode/tree/master/0013-roman-to-integer) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/samiran4663/LeetCode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
