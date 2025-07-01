@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/samiran4663/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/samiran4663/LeetCode/tree/master/0015-3sum) |
 | [0061-rotate-list](https://github.com/samiran4663/LeetCode/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/samiran4663/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/samiran4663/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/samiran4663/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/samiran4663/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/samiran4663/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/samiran4663/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/samiran4663/LeetCode/tree/master/0053-maximum-subarray) |
 ## Hash Table
 |  |
