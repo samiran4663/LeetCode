@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/samiran4663/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/samiran4663/LeetCode/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/samiran4663/LeetCode/tree/master/0058-length-of-last-word) |
+| [0131-palindrome-partitioning](https://github.com/samiran4663/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/samiran4663/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/samiran4663/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0409-longest-palindrome](https://github.com/samiran4663/LeetCode/tree/master/0409-longest-palindrome) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/samiran4663/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/samiran4663/LeetCode/tree/master/0053-maximum-subarray) |
+| [0131-palindrome-partitioning](https://github.com/samiran4663/LeetCode/tree/master/0131-palindrome-partitioning) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/samiran4663/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/samiran4663/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/samiran4663/LeetCode/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/samiran4663/LeetCode/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
 |  |
 | ------- |
