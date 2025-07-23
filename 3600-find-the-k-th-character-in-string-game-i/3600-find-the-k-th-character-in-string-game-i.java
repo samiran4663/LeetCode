@@ -6,7 +6,7 @@ class Solution {
     }
     public void func(StringBuilder word,int k)
     {
-        if(word.length()>=k)
+        if(word.length()>k)
         {
             return;
         }
