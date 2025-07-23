@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/samiran4663/LeetCode/tree/master/0013-roman-to-integer) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/samiran4663/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## String Matching
 |  |
 | ------- |
@@ -105,4 +106,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/samiran4663/LeetCode/tree/master/0090-subsets-ii) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/samiran4663/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Recursion
+|  |
+| ------- |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/samiran4663/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Simulation
+|  |
+| ------- |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/samiran4663/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 <!---LeetCode Topics End-->
