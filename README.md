@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/samiran4663/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/samiran4663/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/samiran4663/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [1013-fibonacci-number](https://github.com/samiran4663/LeetCode/tree/master/1013-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/samiran4663/LeetCode/tree/master/0013-roman-to-integer) |
+| [1013-fibonacci-number](https://github.com/samiran4663/LeetCode/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/samiran4663/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## String Matching
 |  |
@@ -110,9 +112,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [1013-fibonacci-number](https://github.com/samiran4663/LeetCode/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/samiran4663/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Simulation
 |  |
 | ------- |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/samiran4663/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/samiran4663/LeetCode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
