@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/samiran4663/LeetCode/tree/master/0090-subsets-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/samiran4663/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/samiran4663/LeetCode/tree/master/0134-gas-station) |
+| [0152-maximum-product-subarray](https://github.com/samiran4663/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0455-assign-cookies](https://github.com/samiran4663/LeetCode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/samiran4663/LeetCode/tree/master/0485-max-consecutive-ones) |
 ## Two Pointers
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/samiran4663/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/samiran4663/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/samiran4663/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0152-maximum-product-subarray](https://github.com/samiran4663/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [1013-fibonacci-number](https://github.com/samiran4663/LeetCode/tree/master/1013-fibonacci-number) |
 ## Hash Table
 |  |
