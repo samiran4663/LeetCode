@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/samiran4663/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0455-assign-cookies](https://github.com/samiran4663/LeetCode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/samiran4663/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0540-single-element-in-a-sorted-array](https://github.com/samiran4663/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -137,4 +138,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/samiran4663/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0540-single-element-in-a-sorted-array](https://github.com/samiran4663/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 <!---LeetCode Topics End-->
