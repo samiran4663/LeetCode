@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/samiran4663/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0392-is-subsequence](https://github.com/samiran4663/LeetCode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/samiran4663/LeetCode/tree/master/0409-longest-palindrome) |
+| [1250-longest-common-subsequence](https://github.com/samiran4663/LeetCode/tree/master/1250-longest-common-subsequence) |
 ## Trie
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/samiran4663/LeetCode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/samiran4663/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [1013-fibonacci-number](https://github.com/samiran4663/LeetCode/tree/master/1013-fibonacci-number) |
+| [1250-longest-common-subsequence](https://github.com/samiran4663/LeetCode/tree/master/1250-longest-common-subsequence) |
 ## Hash Table
 |  |
 | ------- |
