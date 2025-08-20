@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/samiran4663/LeetCode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/samiran4663/LeetCode/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/samiran4663/LeetCode/tree/master/0029-divide-two-integers) |
 | [0070-climbing-stairs](https://github.com/samiran4663/LeetCode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/samiran4663/LeetCode/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/samiran4663/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/samiran4663/LeetCode/tree/master/0029-divide-two-integers) |
 | [0090-subsets-ii](https://github.com/samiran4663/LeetCode/tree/master/0090-subsets-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/samiran4663/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Recursion
