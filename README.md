@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/samiran4663/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/samiran4663/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/samiran4663/LeetCode/tree/master/0134-gas-station) |
+| [0136-single-number](https://github.com/samiran4663/LeetCode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/samiran4663/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/samiran4663/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/samiran4663/LeetCode/tree/master/0416-partition-equal-subset-sum) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/samiran4663/LeetCode/tree/master/0029-divide-two-integers) |
 | [0090-subsets-ii](https://github.com/samiran4663/LeetCode/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/samiran4663/LeetCode/tree/master/0136-single-number) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/samiran4663/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/samiran4663/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Recursion
