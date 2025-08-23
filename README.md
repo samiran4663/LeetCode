@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/samiran4663/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/samiran4663/LeetCode/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/samiran4663/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0204-count-primes](https://github.com/samiran4663/LeetCode/tree/master/0204-count-primes) |
 | [0300-longest-increasing-subsequence](https://github.com/samiran4663/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/samiran4663/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/samiran4663/LeetCode/tree/master/0455-assign-cookies) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/samiran4663/LeetCode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/samiran4663/LeetCode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/samiran4663/LeetCode/tree/master/0070-climbing-stairs) |
+| [0204-count-primes](https://github.com/samiran4663/LeetCode/tree/master/0204-count-primes) |
 | [1013-fibonacci-number](https://github.com/samiran4663/LeetCode/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/samiran4663/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## String Matching
@@ -162,4 +164,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/samiran4663/LeetCode/tree/master/0048-rotate-image) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/samiran4663/LeetCode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/samiran4663/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
