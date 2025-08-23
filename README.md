@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/samiran4663/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/samiran4663/LeetCode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/samiran4663/LeetCode/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/samiran4663/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/samiran4663/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/samiran4663/LeetCode/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/samiran4663/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/samiran4663/LeetCode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/samiran4663/LeetCode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/samiran4663/LeetCode/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/samiran4663/LeetCode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/samiran4663/LeetCode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/samiran4663/LeetCode/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/samiran4663/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -156,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/samiran4663/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/samiran4663/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/samiran4663/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/samiran4663/LeetCode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
