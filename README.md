@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/samiran4663/LeetCode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/samiran4663/LeetCode/tree/master/0204-count-primes) |
 | [1013-fibonacci-number](https://github.com/samiran4663/LeetCode/tree/master/1013-fibonacci-number) |
+| [1289-day-of-the-week](https://github.com/samiran4663/LeetCode/tree/master/1289-day-of-the-week) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/samiran4663/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## String Matching
 |  |
