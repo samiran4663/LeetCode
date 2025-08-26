@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/samiran4663/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/samiran4663/LeetCode/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/samiran4663/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/samiran4663/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0204-count-primes](https://github.com/samiran4663/LeetCode/tree/master/0204-count-primes) |
 | [0300-longest-increasing-subsequence](https://github.com/samiran4663/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/samiran4663/LeetCode/tree/master/0416-partition-equal-subset-sum) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/samiran4663/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/samiran4663/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/samiran4663/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/samiran4663/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 ## Matrix
