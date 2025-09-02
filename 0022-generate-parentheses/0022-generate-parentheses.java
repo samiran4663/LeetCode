@@ -1,12 +1,12 @@
 class Solution {
     public List<String> generateParenthesis(int n) {
         
-        ArrayDeque<String> string = new ArrayDeque<>();
+        List<String> string = new ArrayList<>();
         List<String> parenthesis = new ArrayList<>();
         recfunc(0,n,0,parenthesis,string);
         return parenthesis;
     }
-    public void recfunc(int fp,int n,int bp,List<String> parenthesis,ArrayDeque<String>string)
+    public void recfunc(int fp,int n,int bp,List<String> parenthesis,List<String>string)
     {
         if(fp==n && bp==n)
         {
@@ -17,15 +17,16 @@ class Solution {
         {
             string.add("(");
             recfunc(fp+1,n,bp,parenthesis,string);
-            string.removeLast();
+            string.remove(string.size()-1);
         }
         if(bp<fp) 
         {
             string.add(")");
             recfunc(fp,n,bp+1,parenthesis,string);
-            string.removeLast();
+            string.remove(string.size()-1);
+            
         }
-        
+       
         
     }
 }
