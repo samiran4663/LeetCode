@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/samiran4663/LeetCode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/samiran4663/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/samiran4663/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [1019-squares-of-a-sorted-array](https://github.com/samiran4663/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/samiran4663/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/samiran4663/LeetCode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/samiran4663/LeetCode/tree/master/0455-assign-cookies) |
+| [1019-squares-of-a-sorted-array](https://github.com/samiran4663/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/samiran4663/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/samiran4663/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0455-assign-cookies](https://github.com/samiran4663/LeetCode/tree/master/0455-assign-cookies) |
+| [1019-squares-of-a-sorted-array](https://github.com/samiran4663/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 ## Linked List
 |  |
 | ------- |
